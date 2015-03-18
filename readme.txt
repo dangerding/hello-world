@@ -1,3 +1,6 @@
 var hello = 'hello again';
+var working;
 
-console.log(hello);
+working =  hello + ', how are you?';
+
+console.log(working);
